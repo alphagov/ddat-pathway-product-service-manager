@@ -1,0 +1,24 @@
+= Role levels
+
+== Head of Product
+
+The Head of Product provides support to all product managers in the organisation. They have expert product management skills and are required to coach others to increase performance. They work with other communities and organisation management to represent community interests. They oversee every member of the community, their role, their assignments, development, pay and performance. They manage hiring, development, moves and exits from the community, covering civil servants and contractors. They can line manage Senior and Lead Product Mangers. 
+
+== Lead Product Manager
+
+Lead Product Managers are the lead for their local community (i.e. the lead for the product team in their programme or service) and they are as interested in managing people as managing products. They work deputise for the Head of Product (where they exist as a separate role) to provide leadership and direction to all products in a local product community. They coordinate activity across multiple product teams and maintain high level roadmaps. They are likely to be involved in a range of programme management activities in support of the Service Owner or Programme Lead. They are involved in line management and hiring of product managers and contractors. They may also be operationally involved in product work but usually on a temporary basis, where a team needs additional support.
+
+== Senior Product Manager
+
+Senior Product Managers manage multiple products or a single product that is
+especially complex, high risk or sensitive. They have expert product
+management skills and are co-located with product delivery teams. They may be occasionally involved in elements of programme management activity. They are involved in line management and hiring of product managers. 
+
+== Product Manager
+
+Product Managers define, own and solve problems, managing a product through discovery, alpha, beta and live states with a delivery team they are co-located with. They have a depth of knowledge of product management principles and techniques and are developing expert skills. They support Lead and Senior Product Managers and they may line manage Associate Product Managers. They may be involved in recruitment. This can be an ‘entry level’ role for new product managers who have been working in other digital roles or civil servants with sufficient experience across other competencies.
+
+== Associate Product Manager
+
+Associate Product Managers manage subsets of features or components of a product in either its prototype states or once it is live and being incrementally improved. They are learning basic product management principles and techniques. They work in support of a more senior product manager. This is an entry level role, and can be relevant for civil servants who may be looking to move into a to product manager career path but have no previous digital delivery experience or those on emerging talent schemes.
+

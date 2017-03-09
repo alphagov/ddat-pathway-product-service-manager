@@ -1,0 +1,94 @@
+= Levels of mastery for technical capabilities
+
+The levels of mastery (from awareness to expert) have been mapped against the role levels for product managers for each technical capability. An overview of the mapping for each of the capabilities can be seen below.
+
+The critical capabilities are:
+
+* Lifecycle perspective
+* Problem ownership
+* Product ownership
+* Strategy ownership
+* User focus
+* Working with agility
+
+The desired capabilities are:
+
+* DDaT perspective
+* Financial ownership
+* Understanding constraints
+
+=== Overview
+
+[cols="6*", options="header"]
+|===
+
+|Capability
+|Associate Product Manager
+|Product Manager
+|Senior Product Manager
+|Lead Product Manager
+|Head of Product
+
+|DDaT perspective
+|Awareness
+|Working
+|Practitioner
+|Expert
+|Expert
+
+|Financial ownership
+|Awareness
+|Practitioner
+|Practitioner
+|Practitioner
+|Practitioner
+
+|Lifecycle perspective
+|Awareness
+|Working
+|Practitioner
+|Expert
+|Expert
+
+|Problem ownership
+|Working
+|Practitioner
+|Expert
+|Expert
+|Expert
+
+|Product ownership
+|Awareness
+|Practitioner
+|Expert
+|Expert
+|Expert
+
+|Strategy ownership
+|Working
+|Practitioner
+|Practitioner
+|Expert
+|Expert
+
+|Understanding constraints
+|Awareness
+|Working
+|Practitioner
+|Expert
+|Expert
+
+|User focus
+|Working
+|Practitioner
+|Practitioner
+|Practitioner
+|Expert
+
+|Working with agility
+|Awareness
+|Working
+|Expert
+|Expert
+|Expert
+|===

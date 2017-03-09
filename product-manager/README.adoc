@@ -1,0 +1,3 @@
+= Product manager
+
+Product managers are responsible for the quality of their products. They use their knowledge of user needs and business goals to frame problems and set priorities for their delivery teams. They form the vision for their product and engage their teams and stakeholders in the development of that vision over time. Product managers keep people informed about the development of their products and promote their uptake. They represent users throughout the delivery process and use their feedback to inform continuous improvement.

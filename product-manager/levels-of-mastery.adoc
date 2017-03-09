@@ -1,0 +1,21 @@
+= Levels of mastery
+
+These are the recommended levels of mastery for the critical capabilities of the product manager role.
+
+[cols="2*", options="header"]
+|===
+|Capability
+|Description of level of mastery
+
+|Expert
+|Has knowledge and experience in application of this capability. Is a recognised specialist and advisor in this capability including user needs, generation of ideas, methods, tools and leading or guiding others in best practice use.
+
+|Practitioner
+|Shares knowledge and experience of the capability with others, including tools and techniques, defining those most appropriate for the environment.
+
+|Working
+|Applies knowledge and experience of the capability, including tools and techniques, adopting those most appropriate for the environment.
+
+|Awareness
+|Has knowledge of the capability and an appreciation of how it’s applied in the environment.
+|===

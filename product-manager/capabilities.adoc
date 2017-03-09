@@ -1,0 +1,272 @@
+= Product Management capabilities
+:toc:
+
+== Capability descriptions
+
+Technical capabilities for product managers have been developed in workshops and mapped to Civil Service competencies.
+
+== DDaT perspective
+
+Demonstrates an understanding of user centred design, technology and data in a government services context. Understands the range of available technology choices and makes informed decisions based on user need and value for money. Understands the variety and complexity of digital contexts, and designs services to meet them. Has knowledge of the wider digital economy and tracks advances in technology.
+
+=== Civil Service competencies
+
+* Achieving commercial outcomes
+* Building capability for all
+* Seeing the big picture
+
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Able to demonstrate an understanding of design, technology and data principles. Understands a range of available technology choices.
+
+|Working
+|Able to demonstrate an understanding of design, technology and data principles. Understands the variety and complexities of a user’s digital needs and how the product will meet those needs. Understands the importance of assisted digital. Able to design services and make decisions to meet users needs.
+
+|Practitioner
+|Able to demonstrate an advanced understanding of design, technology and data principles. Able to identify and implement solutions for assisted digital. Able to apply knowledge to work with other job families.
+
+|Expert
+|Has knowledge of the wider digital economy and advances in technology. Understands working with agility at an organisational level. Able to create the environment for success. Able to drive working with other DDaT roles, job families and professions.
+|===
+
+== Financial ownership
+
+Able to secure funding for agile delivery through a business case and through delivering a good pitch in government. Capable of prioritising spending based on return on investment and strategic intent; this may include contract ownership and accountability for realisation of benefits.
+
+=== Civil Service competencies
+
+* Achieving commercial outcomes
+* Delivering value for money
+* Managing a quality service
+
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Able to handle numbers confidently and collate information ensuring accuracy of financial and performance data.
+
+|Working
+|Able to read and contribute towards a business case. Able to account for expenditure and create well supported arguments for enhanced expenditure. Capable of ensuring recognised control procedures and practices are maintained. Able to monitor costs and use of resources.
+
+|Practitioner
+|Able to build business cases based on user needs. Understands the digital marketplace, and can persuade others that a product is the right one to use. Able to integrate a product with other services. Capable of ensuring products get used. Able to realise benefits by linking work in progress back to the business case.
+
+|Expert
+|Able to develop an agile business case, own and iterate it throughout the lifecycle. Able to develop benefits with others within the portfolio. Understands the granularity of financial costs per sprint and value delivered.
+|===
+
+== Lifecycle perspective
+
+Understands the different phases of product delivery and is able to contribute to, plan or run these. Able to maintain a product or process through the delivery phases, through to live and into retirement. Able to lead a team through the different phases of the delivery lifecycle. Can maintain and iterate a product over time to continuously meet user needs. Understands and is aware of incident management and service support so that products are built effectively.
+
+=== Civil Service competencies
+
+* Changing and improving
+* Managing a quality service
+* Seeing the big picture
+
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Understands how the needs of a team and of a product vary across the phases of the lifecycle.
+
+|Working
+|Recognises when to move from one stage of a product lifecycle to another. Ensures a team is working towards the appropriate service standards for the relevant phase. Able to manage the delivery products or services at different phases.
+
+|Practitioner
+|Able to apply experience of multiple parts of the lifecycle. Able to recognise when it is right to move forward and when it is right to stop. Able to recognise the appropriate deliverables and the right people to meet these. Able to work with other agile delivery operations throughout the product lifecycle. Able to plan and engage with the appropriate stakeholders at a particular stage in the project.
+
+|Expert
+|Able to successfully lead teams through the full product lifecycle. Able to identify which tools and techniques should be used at each stage. Able to develop sustainable support models. Able to identify and deal with potential risks across or between all phases of the lifecycle. Able to coach others. Able to contribute to the assessment of other teams, providing guidance and support as they move through the lifecycle phases.
+|===
+
+== Problem ownership
+
+Understands and identifies the problem, analyses different solutions and works with experts to identify the right solution. Clarifies, defines and validates the solution, helping others in the organisation to share the vision.
+
+=== Civil Service competencies
+
+* Changing and improving
+* Delivering at pace
+* Delivering value for money
+* Seeing the big picture
+
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Knows how to define a problem. Understands the level of problem - whether it is strategic, tactical, operational etc. Works with team members to clarify a problem.
+
+|Working
+|Able to use data to identify problems. Knows how to consult specialists to assess a problem and begin to solve it.
+
+|Practitioner 
+|Able to frame complex problems. Understands the process of how to fix a problem. Understands the extent to which the product fixes the problem. Able to experiment with hypothesis to solve a problem.
+
+|Expert
+|Able to anticipate problems and knows how to defend against them at the right time. Understands how the problem fits into the larger picture. Able to articulate the problem and can coach others. Builds problem-solving capabilities in others. 
+|===
+
+== Product ownership 
+
+Uses a range of product management principles and approaches. Captures and translates user needs into deliverables. Able to define the minimum viable product and make decisions about priorities. Writes stories and acceptance criteria. Capable of working with a range of specialists in multidisciplinary teams.
+
+=== Civil Service competencies
+
+* Changing and improving
+* Delivering at pace
+* Leading and communicating
+* Managing a quality service
+
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Has awareness of tools, terms and concepts used to deliver a product.
+
+|Working
+|Understands tools, terms and concepts used to deliver a product and how they can be adapted and applied to different phases of delivery.
+
+|Practitioner
+|Experienced in applying tools, terms and concepts in a variety of ways. Able to be flexible, consider new ways of working and adapt to change.
+
+|Expert
+|Capable of starting to define and create approaches. Able to coach others. Able to implement new ways of working. Is aware of what other sectors are doing. Understands what is most important and applicable.
+|===
+
+== Strategy ownership
+
+Focuses on outcomes, not solutions. Is bold, develops ambitious visions and strategies. Able to get the buy-in from the organisation. Translates the vision into prioritised, deliverable goals.
+
+=== Civil Service competencies
+
+* Achieving commercial outcomes
+* Leading and communicating
+* Managing a quality service
+* Seeing the big picture 
+
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Understands goal-based planning and why it is important.
+
+|Working
+|Able to get buy-in from a team.
+
+|Practitioner
+|Able to get buy-in from the organisation. Able to work with partial information and to articulate that in abstract terms. Able to define ambitious visions and strategies. Able to translate the vision into prioritised, deliverable goals.
+
+|Discerning
+|Able to develop a long-term vision and objectives. Is discerning and disciplined in focusing on what is important and most relevant. Able to develop the capability of others.
+|===
+
+== Understanding constraints
+
+Able to develop an understanding of policy and legislative, regulatory and operational constraints. Capable of ensuring compliance against constraints, challenging the status quo or adapting products and services where needed.
+
+=== Civil Service competencies
+
+* Achieving commercial outcomes
+* Collaborating and partnering
+* Seeing the big picture
+
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Understands policy and legislative, regulatory and operational constraints. 
+
+|Working
+|Understands when the constraints apply and how to work within them. Able to articulate constraints to the team and challenge their validity. Capable of ensuring standards are met.
+
+|Practitioner
+|Able to adapt the roadmap or team’s approach depending on the constraints. Able to challenge senior stakeholders.
+
+|Expert
+|Able to influence, challenge and coach the community. Able to challenge Ministers and Senior Civil Service. Able to anticipate how constraints might change and manage the team, product and service accordingly.
+|===
+
+== User focus
+
+Understands users, who they are, what their needs are, how they behave and how they change over time. Delivers compelling products and services to meet those user needs.
+
+=== Civil Service competencies
+
+* Achieving commercial outcomes
+* Delivering at pace
+* Delivering value for money
+* Managing a quality service
+* Seeing the big picture
+
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Understands the importance of understanding users and their needs, and using this to inform delivery of the right things in the right order.
+
+|Working
+|Able to collate, understand and define research. Able to use quantitative and qualitative data about users. Able to turn user focus into outcomes.
+
+|Practitioner 
+|Able to commission research and collaborate with user researchers. Able to represent users internally. Understands the difference between user needs and desires of the user. Able to champion user research to focus on totality of all users.
+
+|Expert
+|Able to coach others. Able to bring insight and expertise in how user needs have changed over time. Can ensure user needs are met by the business. Understands how to meet the most pressing needs.
+|===
+
+== Working with agility
+Has an awareness and understanding of agile principles and how they apply in government. Champions agile principles and drives new ways of working. Is unafraid to take risks and willing to learn from mistakes.
+
+== Civil Service competencies
+
+* Building capability for all
+* Changing and improving
+* Collaborating and partnering
+* Delivering at pace
+
+=== Levels of mastery
+
+|===
+|Level|Description
+
+|Awareness
+|Understands agile principles and delivery methods and they how apply in government.
+
+|Working
+|Has had experience in applying agile principles in practice. Capable of measuring what works well.
+
+|Practitioner
+|Able to adapt practices and has the confidence to try new approaches. Able to champion agile principles.
+
+|Expert
+|Able to coach and lead teams in agile practices. Is able to act as a recognised expert and advocates the approaches, continuously reflecting and challenging the team.
+|===
+
+
+
+
+
+
+
+
+
