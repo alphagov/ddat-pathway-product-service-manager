@@ -1,0 +1,23 @@
+= Contributing
+
+Please raise an issue before submitting a pull request and link any subsequent pull request to the original issue.
+
+== Types of changes
+
+The community edition of the product and service management job family is not meant to substantially different from the official version of the profession description. Instead it is meant to support the adoption of the framework by providing a place for feedback, clarification and expansion on the base document of the published framework.
+
+Where changes are proposed that would substantially change the taxonomy definition and would possibly require a re-approval of the taxonomy, role description or career pathway we may not be able to accept them immediately but would need to agree a process by which the changes can be trialled and included in the official framework.
+
+== Benefit of a community version of the framework
+
+It supports the official version and helps to answer questions on how adopt and adapt the framework across government organisations over time.
+
+It will also provide a way to trial and publicise changes to the framework ahead of making a change to the official version. We should be able to experiment more freely with the community version and then only retain useful changes in the official version, which will have a more formal approval process involving the DDAT Professions Team in the Cabinet Office.
+
+== Reason for using Github and Asciidoc
+
+Having a Git-based version provides auditing and change control systems. Our hypothesis is that Github is the most likely collaborative working tool to be whitelisted in a critical mass of government organisations. 
+
+The precedent was set by Robert Rees and the technical architect job family, who were first to create a community version of their framework. Robert also set the precedent for using Asciidoc - ‘the original documents had a lot of tables that I didn't want to have deal with in raw HTML’.
+
+
