@@ -1,0 +1,50 @@
+= Community version of the DDaT Product and Service Management job cluster
+
+This is the community version of the official job cluster framework, containing descriptions of roles, responsibilities and career development pathways for product managers and service owners in government. 
+
+This version is designed to be more open and easy to collaborate on. Feedback from this version will be fed back to the DDaT Professions team for consideration into the official definition of the framework.
+
+== Summary description
+
+The Product and Service Management job cluster champions value to all users. It is responsible for developing the overall vision and setting priorities for products and services. It provides direction and empowerment to high performing, multidisciplinary teams, ensuring return on investment and delivery of benefits. It champions the delivery and continuous improvement of products and services. 
+
+== Career promise
+
+People who are part of this job cluster can expect the following:
+
+You will:
+
+* Be bold
+* Represent users and their needs
+* Solve challenging problems and improve people’s lives
+* Define what good looks like
+* Make data-driven decisions
+* Develop a portfolio of good products or services
+* Build experience leading multi-disciplinary agile teams
+* Have the opportunity to learn, develop and progress in a well-respected, diverse and growing community
+* Lead change within government
+
+== Value delivered
+
+The value this job cluster delivers includes:
+
+* Deliver valuable products or services that meet user needs
+* Maximise the benefit to both the organisation and the user
+* Promote take-up of products and services
+* Ensure the things that are delivered solve the right problems and release the most
+value
+* Champion the product or service through engagement with stakeholders and users
+* Focus on framing and solving problems
+* Own the strategy and vision for the products or services
+* Promote agile principles and ways of working
+* Facilitate the continuous improvement of products or services
+
+== Role descriptions
+
+=== Product manager
+
+Product managers are responsible for the quality of their products. They use their knowledge of user needs and business goals to frame problems and set priorities for their delivery teams. They form the vision for their product and engage their teams and stakeholders in the development of that vision over time. Product managers keep people informed about the development of their products and promote their uptake. They represent users throughout the delivery process and use their feedback to inform continuous improvement.
+ 
+=== Service Owner
+
+Service Owners are accountable for the quality of their service. They apply a portfolio view, managing end-to-end services which include multiple products and channels. They operate at scale and provide the connection between multidisciplinary business areas and stakeholders. Service Owners ensure the necessary business processes are followed and participate in the governance of the service, including acting as a point of escalation for the delivery teams. They own the budget and allocate funding to areas of the service based on their decisions about priorities. They communicate the benefits and performance of their service, and are ultimately responsible for the successful operation and continuous improvement of the service.

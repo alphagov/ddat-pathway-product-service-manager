@@ -1,0 +1,3 @@
+= Role levels
+
+Service Owner only has one role level and therefore the description is the same as the role description.
