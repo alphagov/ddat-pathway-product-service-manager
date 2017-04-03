@@ -19,7 +19,7 @@ The desired capabilities are:
 
 === Overview
 
-[cols="6*", options="header"]
+[cols=“2*”, options="header"]
 |===
 
 |Capability
