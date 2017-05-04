@@ -1,6 +1,6 @@
 = Levels of mastery for technical capabilities
 
-The levels of mastery (from awareness to expert) have been mapped against each technical capability for the service owner. An overview of the mapping for each of the capabilities can be seen below.
+The levels of mastery (from awareness to expert) have been mapped against each technical capability for the service owner role. An overview of the mapping for each of the capabilities can be seen below.
 
 The critical capabilities are:
 
