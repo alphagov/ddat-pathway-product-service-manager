@@ -2,7 +2,7 @@
 
 This is the community version of the official job cluster framework, containing descriptions of roles, responsibilities and career development pathways for product managers and service owners in government. 
 
-This version is designed to be more open and easy to collaborate on. Feedback from this version will be fed back to the DDaT Professions team for consideration into the official definition of the framework.
+This version is designed to be more open and easy to collaborate on. Changes to this version will be fed back to the DDaT Professions team to inform changes to the official version of the framework at https://www.gov.uk/service-manual/communities/product-and-service-community.
 
 == Summary description
 
